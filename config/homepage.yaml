@@ -1,0 +1,25 @@
+homepage:
+  sections:
+    - name: Introduction
+      variant: default
+      enabled: true
+
+    - name: Experience
+      variant: default
+      enabled: true
+
+    - name: Publications
+      variant: default
+      enabled: true
+
+    - name: Projects
+      variant: default
+      enabled: true
+
+    - name: Talks
+      variant: default # default | card
+      enabled: true
+
+    - name: Service
+      variant: default # default | card
+      enabled: true
